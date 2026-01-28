@@ -89,7 +89,7 @@ L'infrastructure finale repose sur une séparation des services entre deux machi
 
 ---
 
-## 🔍 Validation et Tests
+## Validation et Tests
 Chaque procédure inclut une section de **Tests de validation** permettant de vérifier le bon fonctionnement du service (tests `curl`, `ping`, vérification de ports `ss`, etc.).
 
 Une section **Dépannage (Problèmes rencontrés)** est présente dans chaque fiche pour documenter les erreurs fréquentes (erreurs de syntaxe YAML, permissions PostgreSQL, problèmes de tunnels SSH).
